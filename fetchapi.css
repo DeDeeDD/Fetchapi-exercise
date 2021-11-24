@@ -1,0 +1,34 @@
+body {
+    background-color: darkorange;
+}
+
+.textArea {
+    height: 25px;
+    width: 450px;
+    display: none;
+}
+
+.resultContainer{
+    background-color: white;
+    width:455px ;
+    
+
+    
+}
+
+.resultContainerDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.pictureResult{
+    width: 20%;
+    height: 100px;
+}
+
+.productname{
+    width: 60%;
+    font-size: 15px;
+    text-align:justify;
+}
